@@ -27,7 +27,8 @@
 }
 
 body {
-    background: var(--bg-url) no-repeat top center/cover;/* short */
+    background: var(--bg-url) no-repeat top center/cover;
+    /* short */
 }
 
 body * {
@@ -141,7 +142,7 @@ ul li a:hover {
 }
 
 #social-links a:hover {
-    background: var(--highlight-color);    
+    background: var(--highlight-color);
 }
 
 footer {
@@ -157,3 +158,5 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+@media (min-width: 700px) {}
