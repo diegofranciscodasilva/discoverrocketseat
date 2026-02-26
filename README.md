@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 
-O **Discover** é um agregador de links para ser usado como uma "bio" em redes sociais. O projeto foi desenvolvido durante o curso **Discover** da Rocketseat, servindo como uma introdução prática ao desenvolvimento web moderno.
+O **DevLinks** é um agregador de links para ser usado como uma "bio" em redes sociais. O projeto foi desenvolvido durante o curso **Discover** da Rocketseat, servindo como uma introdução prática ao desenvolvimento web moderno.
 
 O objetivo principal foi criar uma página adaptável (responsiva) que permite ao usuário alternar entre os modos **claro (light)** e **escuro (dark)** com apenas um clique.
 
@@ -28,13 +28,21 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ---
 
+## 🔗 Demonstração
+
+Você pode acessar o projeto online através do link abaixo:
+
+🚀 **[CLIQUE AQUI PARA VER O PROJETO](https://diegofranciscodasilva.github.io/discoverrocketseat/)**
+
+---
+
 ## 🚀 Como executar
 
 Se quiser rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/diegofranciscodasilva/discoverrocketseat.git)
    ```
 
 ## 🤝 Contribuição
