@@ -42,7 +42,7 @@ Se quiser rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/diegofranciscodasilva/discoverrocketseat.git)
+   git clone (https://github.com/diegofranciscodasilva/discoverrocketseat.git)
    ```
 
 ## 🤝 Contribuição
